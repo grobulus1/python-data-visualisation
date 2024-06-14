@@ -1,0 +1,3 @@
+from display_temperature_data import generate_temperature_differences_plot
+
+generate_temperature_differences_plot('weather_data/death_valley_2021_full.csv')
